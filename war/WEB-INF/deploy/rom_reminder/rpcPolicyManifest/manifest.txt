@@ -1,3 +1,2 @@
 # Module rom_reminder
 # RPC service class, partial path of RPC policy file
-com.vincentc.reminder.client.GreetingService, 0279A0D5DD8E6E923C8A67C0D84A57FD.gwt.rpc
