@@ -1,0 +1,2 @@
+serviceClass: com.vincentc.reminder.client.GreetingService
+path: 0279A0D5DD8E6E923C8A67C0D84A57FD.gwt.rpc

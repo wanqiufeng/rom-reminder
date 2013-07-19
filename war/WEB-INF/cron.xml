@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+	<cron>
+		<url>/rom_reminder/greet</url>
+		<description>check cm new rom everyday</description>
+		<schedule>every day 00:00</schedule>
+	</cron>
+</cronentries>
